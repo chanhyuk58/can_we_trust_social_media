@@ -1,0 +1,82 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/Users/chanhyuk/Data/twitter_congress/116th/python_scripts/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/cbdc5c4b/
+MODEL	sentiment.py	/^MODEL = f"cardiffnlp\/twitter-roberta-base-sentiment-latest"$/;"	v
+account_list	tweets_by_bills.py	/^account_list = pd.read_csv('..\/R\/accountlist2.csv')$/;"	v
+act	tweets_by_bills.py	/^    act = '#' + act $/;"	v
+act	tweets_by_bills.py	/^    act = '(?:\\s|)'.join(title_list)$/;"	v
+bills	tweets_by_bills.py	/^bills = pd.read_csv('..\/data\/bills.csv')$/;"	v
+conditions	sentiment.py	/^    conditions = [$/;"	v
+config	sentiment.py	/^config = AutoConfig.from_pretrained(MODEL)$/;"	v
+data_size	tweets_by_bills.py	/^    data_size = str(tw_hract.shape[0])$/;"	v
+df	bills.py	/^            df = df.append(dic1, ignore_index=True)$/;"	v
+df	bills.py	/^df = df[df['rollnumber'].notnull()]$/;"	v
+df	bills.py	/^df = pd.DataFrame(columns=['bill_number', 'title', $/;"	v
+df	bills.py	/^df = pd.merge(df, rollcalls, how='left', on=['bill_number'])$/;"	v
+df	group.py	/^df = pd.read_csv('..\/data\/senti.csv')$/;"	v
+df	sentiment.py	/^df = pd.read_csv("..\/data\/twt.csv")$/;"	v
+df	tweets_by_bills.py	/^df = pd.merge(df, account_list, how='left', on='user_screen_name')$/;"	v
+df	tweets_by_bills.py	/^df = pd.read_csv('..\/data\/tw116_during_116th_hract.csv')$/;"	v
+dic1	bills.py	/^            dic1 = {'bill_number':temp['number'],$/;"	v
+elapsed_time	sentiment.py	/^elapsed_time = time.time() - st$/;"	v
+final	group.py	/^final = (df$/;"	v
+final	group.py	/^final = pd.merge(final, votes, how='left', on=['rollnumber', 'icpsr'])$/;"	v
+hr	tweets_by_bills.py	/^    hr = '\\\\b(?:h|h\\.|h |h\\. )(?:r\\.|r|r\\. |r )' + str(num) + '\\\\b'$/;"	v
+hr_list	bills.py	/^hr_list = ['hr' + str(i) for i in range(1,9060)]$/;"	v
+intro	tweets_by_bills.py	/^    intro = bills[bills.bill_number==num].introduced_at$/;"	v
+intro	tweets_by_bills.py	/^    intro = pd.DataFrame(intro).iloc[0,0]$/;"	v
+intro	tweets_by_bills.py	/^    intro = str(intro)$/;"	v
+model	sentiment.py	/^model = AutoModelForSequenceClassification.from_pretrained(MODEL)$/;"	v
+np	prepro.py	/^import numpy as np$/;"	I	nameref:module:numpy
+np	sentiment.py	/^import numpy as np$/;"	I	nameref:module:numpy
+num_list	tweets_by_bills.py	/^num_list = list(bills.bill_number)$/;"	v
+pd	bills.py	/^import pandas as pd$/;"	I	nameref:module:pandas
+pd	group.py	/^import pandas as pd$/;"	I	nameref:module:pandas
+pd	prepro.py	/^import pandas as pd$/;"	I	nameref:module:pandas
+pd	sentiment.py	/^import pandas as pd $/;"	I	nameref:module:pandas
+pd	tweets_by_bills.py	/^import pandas as pd$/;"	I	nameref:module:pandas
+preprocess	sentiment.py	/^def preprocess(text):$/;"	f
+rollcalls	bills.py	/^rollcalls = pd.read_csv('..\/data\/voteview\/rollcalls.csv')$/;"	v
+rollnumber	tweets_by_bills.py	/^    rollnumber = bills.loc[bills['bill_number']==num, 'clerk_rollnumber']$/;"	v
+rollnumber	tweets_by_bills.py	/^    rollnumber = pd.DataFrame(rollnumber).iloc[0,0]$/;"	v
+rollnumber2	tweets_by_bills.py	/^    rollnumber2 = bills.loc[bills['bill_number']==num, 'rollnumber']$/;"	v
+rollnumber2	tweets_by_bills.py	/^    rollnumber2 = pd.DataFrame(rollnumber2).iloc[0,0]$/;"	v
+senti	sentiment.py	/^senti = df["text"].apply(sentiment)$/;"	v
+sentiment	sentiment.py	/^def sentiment(target):$/;"	f
+size	tweets_by_bills.py	/^    size = size + [[num, data_size]]$/;"	v
+size	tweets_by_bills.py	/^size = []$/;"	v
+size	tweets_by_bills.py	/^size = pd.DataFrame(size, columns=['bill_number', 'size'])$/;"	v
+st	sentiment.py	/^st = time.time()$/;"	v
+temp	bills.py	/^            temp = json.load(f)$/;"	v
+title	tweets_by_bills.py	/^    title = bills[bills.bill_number==num].title$/;"	v
+title	tweets_by_bills.py	/^    title = pd.DataFrame(title)$/;"	v
+title	tweets_by_bills.py	/^    title = re.sub(r'Act .+', 'Act', str(title))$/;"	v
+title	tweets_by_bills.py	/^    title = title.iloc[0,0]$/;"	v
+title_list	tweets_by_bills.py	/^    title_list = title.split()$/;"	v
+tokenizer	sentiment.py	/^tokenizer = AutoTokenizer.from_pretrained(MODEL)$/;"	v
+tw116	prepro.py	/^tw116 = tw116.dropna(subset=["hashtags"])$/;"	v
+tw116	prepro.py	/^tw116 = tw116[(tw116['created_at'] > '2019-01-02') & $/;"	v
+tw116	prepro.py	/^tw116 = tw116[tw116['text'].str.contains(rf'\\b(?:h|h\\.|h |h\\. )(?:r\\.|r|r\\. |r )[0-9]+\\b|a/;"	v
+tw116	prepro.py	/^tw116 = tw116_o[["created_at", "hashtags", "text","user_id", "user_name", "user_screen_name"]]$/;"	v
+tw116_o	prepro.py	/^tw116_o = pd.read_csv("..\/data\/raw\/representatives-1.csv")$/;"	v
+tw_hract	tweets_by_bills.py	/^         tw_hract = tw_hract[(tw_hract.created_at >= intro)] $/;"	v
+tw_hract	tweets_by_bills.py	/^        tw_hract = df[df.text.str.contains(rf'{hr}', regex=True, case=False)]$/;"	v
+twt	tweets_by_bills.py	/^        twt = twt + tw_hract2$/;"	v
+twt	tweets_by_bills.py	/^twt = []$/;"	v
+twt	tweets_by_bills.py	/^twt = pd.DataFrame(twt, columns=['tweet_id', 'created_at', 'hashtags', 'text', $/;"	v
+twt	tweets_by_bills.py	/^twt = twt.sample(frac=1, random_state=1066).reset_index(drop=True)$/;"	v
+twt	tweets_by_bills.py	/^twt = twt[:int((len(twt)+1)*.80)]$/;"	v
+twt_test	tweets_by_bills.py	/^twt_test = twt[int((len(twt)+1)*.80):]$/;"	v
+values	sentiment.py	/^    values = [-1, 1, 0]$/;"	v
+voted	tweets_by_bills.py	/^    voted = bills[bills.bill_number==num].date$/;"	v
+voted	tweets_by_bills.py	/^    voted = pd.DataFrame(voted).iloc[0,0]$/;"	v
+voted	tweets_by_bills.py	/^    voted = str(voted)$/;"	v
+votes	group.py	/^votes = pd.read_csv('..\/data\/voteview\/H116_votes.csv')$/;"	v

@@ -1,0 +1,396 @@
+﻿state,party,last_name,user_screen_name,name,gender,state_abbrev,icpsr,born
+Alabama,D,SEWELL,RepTerriSewell,Terri A. Sewell,female,AL,21102,1965
+Alabama,R,ADERHOLT,Robert_Aderholt,Robert B. Aderholt,male,AL,29701,1965
+Alabama,R,BROOKS,RepMoBrooks,Mo Brooks,male,AL,21193,1954
+Alabama,R,BYRNE,RepByrne,Bradley Byrne,male,AL,21376,1955
+Alabama,R,PALMER,USRepGaryPalmer,Gary J. Palmer,male,AL,21500,1954
+Alabama,R,ROBY,MarthaRobyAL,Martha Roby,female,AL,21192,1976
+Alabama,R,ROGERS,RepMikeRogersAL,Mike Rogers,male,AL,20301,1958
+Alaska,R,YOUNG,repdonyoung,Don Young,male,AK,14066,1933
+Arizona,D,GALLEGO,RepRubenGallego,Ruben Gallego,male,AZ,21502,1979
+Arizona,D,GRIJALVA,RepRaulGrijalva,Raul M. Grijalva,male,AZ,20305,1948
+Arizona,D,O'HALLERAN,RepOHalleran,Tom O'Halleran,male,AZ,21739,1946
+Arizona,D,SINEMA,SenatorSinema,Kyrsten Sinema,female,AZ,21300,1976
+Arizona,R,BIGGS,RepAndyBiggsAZ,Andy Biggs,male,AZ,21705,1958
+Arizona,R,GOSAR,RepGosar,Paul A. Gosar,male,AZ,21103,1958
+Arizona,R,MCSALLY,MarthaMcSally,Martha McSally,female,AZ,21501,1966
+Arizona,R,SCHWEIKERT,RepDavid,David Schweikert,male,AZ,21105,1962
+Arkansas,R,CRAWFORD,RepRickCrawford,"Eric A. ""Rick"" Crawford",male,AR,21106,1966
+Arkansas,R,HILL,RepFrenchHill,J. French Hill,male,AR,21503,1956
+Arkansas,R,WESTERMAN,RepWesterman,Bruce Westerman,male,AR,21563,1967
+Arkansas,R,WOMACK,rep_stevewomack,Steve Womack,male,AR,21108,1957
+California,D,AGUILAR,RepPeteAguilar,Pete Aguilar,male,CA,21506,1979
+California,D,BARRAGAN,RepBarragan,Nanette Diaz Barragan,female,CA,21703,1976
+California,D,BASS,RepKarenBass,Karen Bass,female,CA,21110,1953
+California,D,BERA,RepBera,Ami Bera,male,CA,21304,1965
+California,D,BROWNLEY,RepBrownley,Julia Brownley,female,CA,21308,1952
+California,D,CARBAJAL,RepCarbajal,Salud O. Carbajal,male,CA,21709,1964
+California,D,CARDENAS,RepCardenas,Tony Cardenas,male,CA,21309,1963
+California,D,CHU,RepJudyChu,Judy Chu,female,CA,20955,1953
+California,D,CORREA,RepLouCorrea,J. Luis Correa,male,CA,21711,1958
+California,D,COSTA,RepJimCosta,Jim Costa,male,CA,20501,1952
+California,D,DESAULNIER,RepDeSaulnier,Mark DeSaulnier,male,CA,21504,1952
+California,D,ESHOO,RepAnnaEshoo,Anna G. Eshoo,female,CA,29312,1942
+California,D,GARAMENDI,RepGaramendi,John Garamendi,male,CA,20958,1945
+California,D,GOMEZ,JimmyGomezCA,Jimmy Gomez,male,CA,21754,1974
+California,D,HUFFMAN,RepHuffman,Jared Huffman,male,CA,21303,1964
+California,D,KHANNA,RepRoKhanna,Ro Khanna,male,CA,21728,1976
+California,D,LEE,RepBarbaraLee,Barbara Lee,female,CA,29778,1946
+California,D,LIEU,RepTedLieu,Ted Lieu,male,CA,21507,1969
+California,D,LOFGREN,RepZoeLofgren,Zoe Lofgren,female,CA,29504,1947
+California,D,LOWENTHAL,RepLowenthal,Alan S. Lowenthal,male,CA,21313,1941
+California,D,MATSUI,DorisMatsui,Doris O. Matsui,female,CA,20538,1944
+California,D,MCNERNEY,RepMcNerney,Jerry McNerney,male,CA,20702,1951
+California,D,NAPOLITANO,gracenapolitano,Grace F. Napolitano,female,CA,29903,1936
+California,D,PANETTA,RepJimmyPanetta,Jimmy Panetta,male,CA,21740,1969
+California,D,PELOSI,SpeakerPelosi,Nancy Pelosi,female,CA,15448,1940
+California,D,PETERS,RepScottPeters,Scott H. Peters,male,CA,21315,1958
+California,D,ROYBAL-ALLARD,RepRoybalAllard,Lucille Roybal-Allard,female,CA,29317,1941
+California,D,RUIZ,RepRaulRuizMD,Raul Ruiz,male,CA,21311,1972
+California,D,SANCHEZ,RepLindaSanchez,Linda T. Sanchez,female,CA,20310,1969
+California,D,SCHIFF,RepAdamSchiff,Adam B. Schiff,male,CA,20104,1960
+California,D,SHERMAN,BradSherman,Brad Sherman,male,CA,29707,1954
+California,D,SPEIER,RepSpeier,Jackie Speier,female,CA,20762,1950
+California,D,SWALWELL,RepSwalwell,Eric Swalwell,male,CA,21306,1980
+California,D,TAKANO,RepMarkTakano,Mark Takano,male,CA,21312,1960
+California,D,THOMPSON,RepThompson,Mike Thompson,male,CA,29901,1951
+California,D,TORRES,NormaJTorres,Norma J. Torres,female,CA,21508,1965
+California,D,VARGAS,RepJuanVargas,Juan Vargas,male,CA,21314,1961
+California,D,WATERS,RepMaxineWaters,Maxine Waters,female,CA,29106,1938
+California,R,CALVERT,KenCalvert,Ken Calvert,male,CA,29323,1953
+California,R,COOK,ColPaulCookRet,Paul Cook,male,CA,21305,1943
+California,R,ISSA,DarrellIssa,Darrell E. Issa,male,CA,20107,1953
+California,R,KNIGHT,SteveKnight25,Stephen Knight,male,CA,21505,1966
+California,R,LAMALFA,RepLaMalfa,Doug LaMalfa,male,CA,21302,1960
+California,R,MCCARTHY,GOPLeader,Kevin McCarthy,male,CA,20703,1965
+California,R,MCCLINTOCK,RepMcClintock,Tom McClintock,male,CA,20903,1956
+California,R,ROHRABACHER,DanaRohrabacher,Dana Rohrabacher,male,CA,15621,1947
+California,R,ROYCE,RepEdRoyce,Edward R. Royce,male,CA,29321,1951
+California,R,VALADAO,RepDavidValadao,David G. Valadao,male,CA,21307,1977
+Colorado,D,DEGETTE,RepDianaDeGette,Diana DeGette,female,CO,29710,1957
+Colorado,D,PERLMUTTER,RepPerlmutter,Ed Perlmutter,male,CO,20705,1953
+Colorado,D,POLIS,RepJaredPolis,Jared Polis,male,CO,20904,1975
+Colorado,R,BUCK,RepKenBuck,Ken Buck,male,CO,21510,1959
+Colorado,R,COFFMAN,RepMikeCoffman,Mike Coffman,male,CO,20906,1955
+Colorado,R,LAMBORN,RepDLamborn,Doug Lamborn,male,CO,20704,1954
+Colorado,R,TIPTON,RepTipton,Scott R. Tipton,male,CO,21111,1956
+Connecticut,D,COURTNEY,RepJoeCourtney,Joe Courtney,male,CT,20706,1953
+Connecticut,D,DELAURO,rosadelauro,Rosa L. DeLauro,female,CT,29109,1943
+Connecticut,D,ESTY,Elizabeth_Esty,Elizabeth H. Esty,female,CT,21316,1959
+Connecticut,D,HIMES,jahimes,James A. Himes,male,CT,20907,1966
+Connecticut,D,LARSON,RepJohnLarson,John B. Larson,male,CT,29908,1948
+Delaware,D,ROCHESTER,RepLBR,Lisa Blunt Rochester,female,DE,21706,1962
+Florida,D,CASTOR,USRepKCastor,Kathy Castor,female,FL,20708,1966
+Florida,D,CRIST,RepCharlieCrist,Charlie Crist,male,FL,21712,1956
+Florida,D,DEMINGS,RepValDemings,Val Butler Demings,female,FL,21713,1957
+Florida,D,DEUTCH,RepTedDeutch,Theodore E. Deutch,male,FL,20959,1966
+Florida,D,FRANKEL,RepLoisFrankel,Lois Frankel,female,FL,21321,1948
+Florida,D,LAWSON,RepAlLawsonJr,"Al Lawson, Jr.",male,FL,21732,1948
+Florida,D,MURPHY,RepStephMurphy,Stephanie N. Murphy,female,FL,21738,1978
+Florida,D,SCHULTZ,RepDWStweets,Debbie Wasserman Schultz,female,FL,20504,1966
+Florida,D,SOTO,RepDarrenSoto,Darren Soto,male,FL,21746,1978
+Florida,D,WILSON,RepWilson,Frederica S. Wilson,female,FL,21118,1942
+Florida,R,BILIRAKIS,RepGusBilirakis,Gus M. Bilirakis,male,FL,20758,1963
+Florida,R,BUCHANAN,VernBuchanan,Vern Buchanan,male,FL,20709,1951
+Florida,R,CURBELO,carloslcurbelo,Carlos Curbelo,male,FL,21512,1980
+Florida,R,DESANTIS,GovRonDeSantis,Ron DeSantis,male,FL,21318,1978
+Florida,R,DIAZ-BALART,MarioDB,Mario Diaz-Balart,male,FL,20316,1961
+Florida,R,DUNN,DrNealDunnFL2,Neal P. Dunn,male,FL,21714,1953
+Florida,R,GAETZ,RepMattGaetz,Matt Gaetz,male,FL,21719,1982
+Florida,R,MAST,RepBrianMast,Brian J. Mast,male,FL,21735,1980
+Florida,R,ROONEY,TomRooney,Thomas J. Rooney,male,FL,20910,1970
+Florida,R,ROONEY_L,RepRooney,Francis Rooney,male,FL,21742,1953
+Florida,R,ROS-LEHTINEN,RosLehtinen,Ileana Ros-Lehtinen,female,FL,15634,1952
+Florida,R,ROSS,DennisRossSEU,Dennis A. Ross,male,FL,21117,1959
+Florida,R,RUTHERFORD,RepRutherfordFL,John H. Rutherford,male,FL,21744,1952
+Florida,R,WEBSTER,RepWebster,Daniel Webster,male,FL,21116,1949
+Florida,R,YOHO,RepTedYoho,Ted S. Yoho,male,FL,21317,1955
+Georgia,D,BISHOP,SanfordBishop,"Sanford D. Bishop, Jr.",male,GA,29339,1947
+Georgia,D,JOHNSON,RepHankJohnson,"Henry C. ""Hank"" Johnson, Jr.",male,GA,20712,1954
+Georgia,D,LEWIS,repjohnlewis,John Lewis,male,GA,15431,1940
+Georgia,D,SCOTT,repdavidscott,David Scott,male,GA,20321,1945
+Georgia,R,ALLEN,RepRickAllen,Rick W. Allen,male,GA,21516,1951
+Georgia,R,CARTER,RepBuddyCarter,"Earl L. ""Buddy"" Carter",male,GA,21513,1957
+Georgia,R,COLLINS,RepDougCollins,Doug Collins,male,GA,21323,1966
+Georgia,R,FERGUSON,RepDrewFerguson,A. Drew Ferguson IV,male,GA,21717,1966
+Georgia,R,GRAVES,RepTomGraves,Tom Graves,male,GA,20962,1970
+Georgia,R,HICE,CongressmanHice,Jody B. Hice,male,GA,21514,1960
+Georgia,R,LOUDERMILK,RepLoudermilk,Barry Loudermilk,male,GA,21515,1963
+Georgia,R,SCOTT,AustinScottGA08,Austin Scott,male,GA,21123,1969
+Georgia,R,WOODALL,RepRobWoodall,Rob Woodall,male,GA,21122,1970
+Hawaii,D,GABBARD,TulsiPress,Tulsi Gabbard,female,HI,21324,1981
+Hawaii,D,HANABUSA,RepHanabusa,Colleen Hanabusa,female,HI,21124,1951
+Idaho,R,LABRADOR,Raul_Labrador,Raul R. Labrador,male,ID,21125,1967
+Idaho,R,SIMPSON,CongMikeSimpson,Michael K. Simpson,male,ID,29910,1950
+Illinois,D,BUSTOS,RepCheri,Cheri Bustos,female,IL,21329,1961
+Illinois,D,DAVIS,RepDannyDavis,Danny K. Davis,male,IL,29717,1941
+Illinois,D,FOSTER,RepBillFoster,Bill Foster,male,IL,20749,1955
+Illinois,D,GUTIERREZ,RepGutierrez,Luis V. Gutierrez,male,IL,29348,1953
+Illinois,D,KELLY,RepRobinKelly,Robin L. Kelly,female,IL,21371,1956
+Illinois,D,KRISHNAMOORTHI,CongressmanRaja,Raja Krishnamoorthi,male,IL,21730,1973
+Illinois,D,LIPINSKI,RepLipinski,Daniel Lipinski,male,IL,20508,1966
+Illinois,D,QUIGLEY,RepMikeQuigley,Mike Quigley,male,IL,20954,1958
+Illinois,D,RUSH,RepBobbyRush,Bobby L. Rush,male,IL,29346,1946
+Illinois,D,SCHAKOWSKY,janschakowsky,Janice D. Schakowsky,female,IL,29911,1944
+Illinois,D,SCHNEIDER,RepSchneider,Bradley Scott Schneider,male,IL,21326,1961
+Illinois,R,BOST,RepBost,Mike Bost,male,IL,21519,1960
+Illinois,R,DAVIS,RodneyDavis,Rodney Davis,male,IL,21328,1970
+Illinois,R,HULTGREN,RepHultgren,Randy Hultgren,male,IL,21129,1966
+Illinois,R,KINZINGER,RepKinzinger,Adam Kinzinger,male,IL,21128,1978
+Illinois,R,LAHOOD,RepLaHood,Darin LaHood,male,IL,21562,1968
+Illinois,R,ROSKAM,PeterRoskam,Peter J. Roskam,male,IL,20715,1961
+Illinois,R,SHIMKUS,RepShimkus,John Shimkus,male,IL,29718,1958
+Indiana,D,CARSON,RepAndreCarson,Andre Carson,male,IN,20757,1974
+Indiana,D,VISCLOSKY,RepVisclosky,Peter J. Visclosky,male,IN,15124,1949
+Indiana,R,BANKS,RepJimBanks,Jim Banks,male,IN,21702,1979
+Indiana,R,BROOKS,SusanWBrooks,Susan W. Brooks,female,IN,21331,1960
+Indiana,R,BUCSHON,RepLarryBucshon,Larry Bucshon,male,IN,21132,1962
+Indiana,R,HOLLINGSWORTH,RepTrey,Trey Hollingsworth,male,IN,21725,1983
+Indiana,R,ROKITA,ToddRokita,Todd Rokita,male,IN,21131,1970
+Indiana,R,WALORSKI,RepWalorski,Jackie Walorski,female,IN,21330,1963
+Iowa,D,LOEBSACK,daveloebsack,David Loebsack,male,IA,20720,1952
+Iowa,R,BLUM,RepRodBlum,Rod Blum,male,IA,21520,1955
+Iowa,R,KING,SteveKingIA,Steve King,male,IA,20325,1949
+Iowa,R,YOUNG,RepDavidYoung,David Young,male,IA,21521,1968
+Kansas,R,ESTES,RepRonEstes,Ron Estes,male,KS,21750,1956
+Kansas,R,MARSHALL,RogerMarshallMD,Roger W. Marshall,male,KS,21734,1960
+Kentucky,D,YARMUTH,RepJohnYarmuth,John A. Yarmuth,male,KY,20723,1947
+Kentucky,R,BARR,RepAndyBarr,Andy Barr,male,KY,21333,1973
+Kentucky,R,COMER,JamesComer,James Comer,male,KY,21565,1972
+Kentucky,R,MASSIE,RepThomasMassie,Thomas Massie,male,KY,31102,1971
+Kentucky,R,ROGERS,RepHalRogers,Harold Rogers,male,KY,14854,1937
+Louisiana,D,RICHMOND,RepRichmond,Cedric L. Richmond,male,LA,21137,1973
+Louisiana,R,ABRAHAM,RepAbraham,Ralph Lee Abraham,male,LA,21522,1954
+Louisiana,R,GRAVES,RepGarretGraves,Garret Graves,male,LA,21523,1972
+Louisiana,R,HIGGINS,RepClayHiggins,Clay Higgins,male,LA,21724,1961
+Louisiana,R,JOHNSON,RepMikeJohnson,Mike Johnson,male,LA,21727,1972
+Louisiana,R,SCALISE,SteveScalise,Steve Scalise,male,LA,20759,1965
+Maine,D,PINGREE,chelliepingree,Chellie Pingree,female,ME,20920,1955
+Maine,R,POLIQUIN,RepPoliquin,Bruce Poliquin,male,ME,21524,1953
+Maryland,D,BROWN,RepAnthonyBrown,Anthony G. Brown,male,MD,21707,1961
+Maryland,D,BROWN,BrownforMD,Anthony G. Brown,male,MD,21707,1961
+Maryland,D,CUMMINGS,RepCummings,Elijah E. Cummings,male,MD,29587,1951
+Maryland,D,DELANEY,RepJohnDelaney,John K. Delaney,male,MD,21334,1963
+Maryland,D,HOYER,LeaderHoyer,Steny H. Hoyer,male,MD,14873,1939
+Maryland,D,RASKIN,RepRaskin,Jamie Raskin,male,MD,21741,1962
+Maryland,D,RUPPERSBERGER,Call_Me_Dutch,C. A. Dutch Ruppersberger,male,MD,20329,1946
+Maryland,D,SARBANES,RepSarbanes,John P. Sarbanes,male,MD,20724,1962
+Maryland,R,HARRIS,RepAndyHarrisMD,Andy Harris,male,MD,21139,1957
+Massachusetts,D,CLARK,RepKClark,Katherine M. Clark,female,MA,21375,1963
+Massachusetts,D,KEATING,USRepKeating,William R. Keating,male,MA,21140,1952
+Massachusetts,D,KENNEDY,joekennedy,Joseph P. Kennedy III,male,MA,21335,1980
+Massachusetts,D,LYNCH,RepStephenLynch,Stephen F. Lynch,male,MA,20119,1955
+Massachusetts,D,MCGOVERN,RepMcGovern,James P. McGovern,male,MA,29729,1959
+Massachusetts,D,MOULTON,RepMoulton,Seth Moulton,male,MA,21525,1978
+Massachusetts,D,NEAL,RepRichardNeal,Richard E. Neal,male,MA,15616,1949
+Michigan,D,CONYERS,RepJohnConyers,"John Conyers, Jr.",male,MI,10713,1929
+Michigan,D,DINGELL,RepDebDingell,Debbie Dingell,female,MI,21529,1953
+Michigan,D,KILDEE,RepDanKildee,Daniel T. Kildee,male,MI,21372,1958
+Michigan,D,LAWRENCE,RepLawrence,Brenda L. Lawrence,female,MI,21530,1954
+Michigan,D,LEVIN,repsandylevin,Sander M. Levin,male,MI,15033,1931
+Michigan,R,AMASH,justinamash,Justin Amash,male,MI,21143,1980
+Michigan,R,BERGMAN,RepJackBergman,Jack Bergman,male,MI,21704,1947
+Michigan,R,HUIZENGA,RepHuizenga,Bill Huizenga,male,MI,21142,1969
+Michigan,R,MITCHELL,RepPaulMitchell,Paul Mitchell,male,MI,21737,1961
+Michigan,R,MOOLENAAR,RepMoolenaar,John R. Moolenaar,male,MI,21526,1961
+Michigan,R,TROTT,MIDaveTrott,David A. Trott,male,MI,21528,1960
+Michigan,R,UPTON,RepFredUpton,Fred Upton,male,MI,15446,1953
+Michigan,R,WALBERG,RepWalberg,Tim Walberg,male,MI,20725,1951
+Minnesota,D,ELLISON,keithellison,Keith Ellison,male,MN,20727,1963
+Minnesota,D,MCCOLLUM,BettyMcCollum04,Betty McCollum,female,MN,20122,1954
+Minnesota,D,NOLAN,USRepRickNolan,Richard M. Nolan,male,MN,14263,1943
+Minnesota,D,WALZ,RepTimWalz,Timothy J. Walz,male,MN,20726,1964
+Minnesota,R,EMMER,RepTomEmmer,Tom Emmer,male,MN,21531,1961
+Minnesota,R,PAULSEN,ErikPaulsen,Erik Paulsen,male,MN,20924,1965
+Mississippi,D,THOMPSON,BennieGThompson,Bennie G. Thompson,male,MS,29368,1948
+Mississippi,R,HARPER,GreggHarper,Gregg Harper,male,MS,20925,1956
+Mississippi,R,KELLY,RepTrentKelly,Trent Kelly,male,MS,21561,1966
+Mississippi,R,PALAZZO,CongPalazzo,Steven M. Palazzo,male,MS,21148,1970
+Missouri,D,CLEAVER,repcleaver,Emanuel Cleaver,male,MO,20517,1944
+Missouri,R,GRAVES,RepSamGraves,Sam Graves,male,MO,20124,1963
+Missouri,R,HARTZLER,RepHartzler,Vicky Hartzler,female,MO,21149,1960
+Missouri,R,LONG,USRepLong,Billy Long,male,MO,21150,1955
+Missouri,R,LUETKEMEYER,RepBlaine,Blaine Luetkemeyer,male,MO,20926,1952
+Missouri,R,SMITH,RepJasonSmith,Jason Smith,male,MO,21373,1980
+Missouri,R,WAGNER,RepAnnWagner,Ann Wagner,female,MO,21337,1962
+Nebraska,R,BACON,RepDonBacon,Don Bacon,male,NE,21701,1963
+Nebraska,R,FORTENBERRY,JeffFortenberry,Jeff Fortenberry,male,NE,20518,1960
+Nebraska,R,SMITH,RepAdrianSmith,Adrian Smith,male,NE,20729,1970
+Nevada,D,KIHUEN,RepKihuen,Ruben J. Kihuen,male,NV,21729,1980
+Nevada,D,ROSEN,SenJackyRosen,Jacky Rosen,female,NV,21743,1957
+Nevada,D,TITUS,repdinatitus,Dina Titus,female,NV,20927,1950
+Nevada,R,AMODEI,MarkAmodeiNV2,Mark E. Amodei,male,NV,21196,1958
+New Hampshire,D,KUSTER,RepAnnieKuster,Ann M. Kuster,female,NH,21340,1956
+New Hampshire,D,SHEA-PORTER,RepSheaPorter,Carol Shea-Porter,female,NH,20731,1952
+New Jersey,D,COLEMAN,RepBonnie,Bonnie Watson Coleman,female,NJ,21538,1945
+New Jersey,D,GOTTHEIMER,RepJoshG,Josh Gottheimer,male,NJ,21723,1975
+New Jersey,D,NORCROSS,DonaldNorcross,Donald Norcross,male,NJ,21536,1958
+New Jersey,D,PALLONE,FrankPallone,"Frank Pallone, Jr.",male,NJ,15454,1951
+New Jersey,D,PASCRELL,BillPascrell,"Bill Pascrell, Jr.",male,NJ,29741,1937
+New Jersey,D,PAYNE,RepDonaldPayne,"Donald M. Payne, Jr.",male,NJ,31103,1958
+New Jersey,D,SIRES,RepSires,Albio Sires,male,NJ,20542,1951
+New Jersey,R,LANCE,RepLanceNJ7,Leonard Lance,male,NJ,20929,1952
+New Jersey,R,LOBIONDO,FrankLoBiondoNJ,Frank A. LoBiondo,male,NJ,29539,1946
+New Jersey,R,MACARTHUR,RepTomMacArthur,Thomas MacArthur,male,NJ,21537,1960
+New Mexico,D,GRISHAM,RepLujanGrisham,Michelle Lujan Grisham,female,NM,21341,1959
+New York,D,CLARKE,RepYvetteClarke,Yvette D. Clarke,female,NY,20733,1964
+New York,D,CROWLEY,JoeCrowleyNY,Joseph Crowley,male,NY,29925,1962
+New York,D,ENGEL,RepEliotEngel,Eliot L. Engel,male,NY,15603,1947
+New York,D,ESPAILLAT,RepEspaillat,Adriano Espaillat,male,NY,21715,1954
+New York,D,HIGGINS,RepBrianHiggins,Brian Higgins,male,NY,20519,1959
+New York,D,JEFFRIES,RepJeffries,Hakeem S. Jeffries,male,NY,21343,1970
+New York,D,LOWEY,NitaLowey,Nita M. Lowey,female,NY,15612,1937
+New York,D,MALONEY,RepSeanMaloney,Sean Patrick Maloney,male,NY,21344,1966
+New York,D,MALONEY_L,RepMaloney,Carolyn B. Maloney,female,NY,29379,1946
+New York,D,MEEKS,RepGregoryMeeks,Gregory W. Meeks,male,NY,29776,1953
+New York,D,MENG,RepGraceMeng,Grace Meng,female,NY,21342,1975
+New York,D,NADLER,RepJerryNadler,Jerrold Nadler,male,NY,29377,1947
+New York,D,RICE,RepKathleenRice,Kathleen M. Rice,female,NY,21540,1965
+New York,D,SERRANO,RepJoseSerrano,Jose E. Serrano,male,NY,29134,1943
+New York,D,SLAUGHTER,louiseslaughter,Louise McIntosh Slaughter,female,NY,15444,1929
+New York,D,SUOZZI,RepTomSuozzi,Thomas R. Suozzi,male,NY,21747,1962
+New York,D,TONKO,RepPaulTonko,Paul Tonko,male,NY,20934,1949
+New York,D,VELAZQUEZ,NydiaVelazquez,Nydia M. Velazquez,female,NY,29378,1953
+New York,R,DONOVAN,RepDanDonovan,"Daniel M. Donovan, Jr.",male,NY,21560,1956
+New York,R,FASO,RepJohnFaso,John J. Faso,male,NY,21716,1952
+New York,R,KATKO,RepJohnKatko,John Katko,male,NY,21542,1962
+New York,R,KING,RepPeteKing,Peter T. King,male,NY,29375,1944
+New York,R,REED,TomReedNY23,Tom Reed,male,NY,21101,1971
+New York,R,STEFANIK,RepStefanik,Elise M. Stefanik,female,NY,21541,1984
+New York,R,TENNEY,RepTenney,Claudia Tenney,female,NY,21749,1961
+New York,R,ZELDIN,RepLeeZeldin,Lee M. Zeldin,male,NY,21539,1980
+North Carolina,D,ADAMS,RepAdams,Alma S. Adams,female,NC,21545,1946
+North Carolina,D,BUTTERFIELD,GKButterfield,G. K. Butterfield,male,NC,20340,1947
+North Carolina,D,PRICE,RepDavidEPrice,David E. Price,male,NC,15438,1940
+North Carolina,R,BUDD,RepTedBudd,Ted Budd,male,NC,21708,1971
+North Carolina,R,FOXX,virginiafoxx,Virginia Foxx,female,NC,20521,1943
+North Carolina,R,HOLDING,RepHolding,George Holding,male,NC,21349,1968
+North Carolina,R,HUDSON,RepRichHudson,Richard Hudson,male,NC,21346,1971
+North Carolina,R,JONES,RepWalterJones,Walter B. Jones,male,NC,29546,1943
+North Carolina,R,MCHENRY,PatrickMcHenry,Patrick T. McHenry,male,NC,20522,1975
+North Carolina,R,MEADOWS,MarkMeadows,Mark Meadows,male,NC,21348,1959
+North Carolina,R,PITTENGER,RepPittenger,Robert Pittenger,male,NC,21347,1948
+North Carolina,R,ROUZER,DavidRouzer,David Rouzer,male,NC,21544,1972
+North Carolina,R,WALKER,RepMarkWalker,Mark Walker,male,NC,21543,1969
+North Dakota,R,CRAMER,SenKevinCramer,Kevin Cramer,male,ND,21350,1961
+Ohio,D,BEATTY,RepBeatty,Joyce Beatty,female,OH,21352,1950
+Ohio,D,FUDGE,RepMarciaFudge,Marcia L. Fudge,female,OH,20941,1952
+Ohio,D,KAPTUR,RepMarcyKaptur,Marcy Kaptur,female,OH,15029,1946
+Ohio,D,RYAN,RepTimRyan,Tim Ryan,male,OH,20343,1973
+Ohio,R,CHABOT,RepSteveChabot,Steve Chabot,male,OH,29550,1953
+Ohio,R,DAVIDSON,WarrenDavidson,Warren Davidson,male,OH,21564,1970
+Ohio,R,GIBBS,RepBobGibbs,Bob Gibbs,male,OH,21165,1954
+Ohio,R,JOHNSON,RepBillJohnson,Bill Johnson,male,OH,21162,1954
+Ohio,R,JORDAN,Jim_Jordan,Jim Jordan,male,OH,20738,1964
+Ohio,R,JOYCE,RepDaveJoyce,David P. Joyce,male,OH,21353,1957
+Ohio,R,LATTA,boblatta,Robert E. Latta,male,OH,20755,1956
+Ohio,R,RENACCI,RepJimRenacci,James B. Renacci,male,OH,21164,1958
+Ohio,R,STIVERS,RepSteveStivers,Steve Stivers,male,OH,21163,1965
+Ohio,R,TIBERI,PatTiberi,Patrick J. Tiberi,male,OH,20130,1962
+Ohio,R,TURNER,RepMikeTurner,Michael R. Turner,male,OH,20342,1960
+Ohio,R,WENSTRUP,RepBradWenstrup,Brad R. Wenstrup,male,OH,21351,1958
+Oklahoma,R,COLE,TomColeOK04,Tom Cole,male,OK,20344,1949
+Oklahoma,R,LUCAS,RepFrankLucas,Frank D. Lucas,male,OK,29393,1960
+Oklahoma,R,MULLIN,RepMullin,Markwayne Mullin,male,OK,21355,1977
+Oklahoma,R,RUSSELL,RepRussell,Steve Russell,male,OK,21546,1963
+Oregon,D,BLUMENAUER,repblumenauer,Earl Blumenauer,male,OR,29588,1948
+Oregon,D,BONAMICI,RepBonamici,Suzanne Bonamici,female,OR,21198,1954
+Oregon,D,DEFAZIO,RepPeterDeFazio,Peter A. DeFazio,male,OR,15410,1947
+Oregon,D,SCHRADER,RepSchrader,Kurt Schrader,male,OR,20944,1951
+Oregon,R,WALDEN,repgregwalden,Greg Walden,male,OR,29932,1957
+Pennsylvania,D,BOYLE,CongBoyle,Brendan F. Boyle,male,PA,21548,1977
+Pennsylvania,D,BRADY,BobBradyPHL,Robert A. Brady,male,PA,29777,1945
+Pennsylvania,D,CARTWRIGHT,RepCartwright,Matt Cartwright,male,PA,21358,1961
+Pennsylvania,D,DOYLE,USRepMikeDoyle,Michael F. Doyle,male,PA,29561,1953
+Pennsylvania,D,EVANS,RepDwightEvans,Dwight Evans,male,PA,21566,1954
+Pennsylvania,D,LAMB,ConorLambPA,Conor Lamb,male,PA,21756,1984
+Pennsylvania,R,BARLETTA,RepLouBarletta,Lou Barletta,male,PA,21171,1956
+Pennsylvania,R,DENT,RepCharlieDent,Charles W. Dent,male,PA,20526,1960
+Pennsylvania,R,FITZPATRICK,RepBrianFitz,Brian K. Fitzpatrick,male,PA,21718,1973
+Pennsylvania,R,KELLY,MikeKellyPA,Mike Kelly,male,PA,21167,1948
+Pennsylvania,R,PERRY,RepScottPerry,Scott Perry,male,PA,21356,1962
+Pennsylvania,R,ROTHFUS,KeithRothfus,Keith J. Rothfus,male,PA,21357,1962
+Pennsylvania,R,SMUCKER,RepSmucker,Lloyd Smucker,male,PA,21745,1964
+Pennsylvania,R,THOMPSON,CongressmanGT,Glenn Thompson,male,PA,20946,1959
+Rhode Island,D,CICILLINE,RepCicilline,David N. Cicilline,male,RI,21172,1961
+Rhode Island,D,LANGEVIN,JimLangevin,James R. Langevin,male,RI,20136,1964
+South Carolina,D,CLYBURN,WhipClyburn,James E. Clyburn,male,SC,39301,1940
+South Carolina,R,DUNCAN,RepJeffDuncan,Jeff Duncan,male,SC,21174,1966
+South Carolina,R,NORMAN,RalphNorman,Ralph Norman,male,SC,21753,1953
+South Carolina,R,RICE,RepTomRice,Tom Rice,male,SC,21359,1957
+South Carolina,R,SANFORD,RepSanfordSC,Mark Sanford,male,SC,29565,1960
+South Carolina,R,WILSON,RepJoeWilson,Joe Wilson,male,SC,20138,1947
+South Dakota,R,NOEM,govkristinoem,Kristi L. Noem,female,SD,21177,1971
+Tennessee,D,COHEN,RepCohen,Steve Cohen,male,TN,20748,1949
+Tennessee,D,COOPER,repjimcooper,Jim Cooper,male,TN,15019,1954
+Tennessee,R,BLACK,RepDianeBlack,Diane Black,female,TN,21180,1951
+Tennessee,R,BLACKBURN,MarshaBlackburn,Marsha Blackburn,female,TN,20351,1952
+Tennessee,R,DESJARLAIS,DesJarlaisTN04,Scott DesJarlais,male,TN,21179,1964
+Tennessee,R,DUNCAN,RepJohnDuncanJr,"John J. Duncan, Jr.",male,TN,15455,1947
+Tennessee,R,FLEISCHMANN,RepChuck,"Charles J. ""Chuck"" Fleischmann",male,TN,21178,1962
+Tennessee,R,KUSTOFF,RepDavidKustoff,David Kustoff,male,TN,21731,1966
+Tennessee,R,ROE,DrPhilRoe,David P. Roe,male,TN,20947,1945
+Texas,D,CASTRO,JoaquinCastrotx,Joaquin Castro,male,TX,21362,1974
+Texas,D,CUELLAR,RepCuellar,Henry Cuellar,male,TX,20533,1955
+Texas,D,DOGGETT,RepLloydDoggett,Lloyd Doggett,male,TX,29571,1946
+Texas,D,GONZALEZ,RepGonzalez,Vicente Gonzalez,male,TX,21722,1967
+Texas,D,GREEN,RepAlGreen,Al Green,male,TX,20529,1947
+Texas,D,JOHNSON,RepEBJ,Eddie Bernice Johnson,female,TX,39305,1935
+Texas,D,LEE,JacksonLeeTX18,Sheila Jackson Lee,female,TX,29573,1950
+Texas,D,O'ROURKE,RepBetoORourke,Beto O'Rourke,male,TX,21361,1972
+Texas,D,VEASEY,RepVeasey,Marc A. Veasey,male,TX,21365,1971
+Texas,D,VELA,RepFilemonVela,Filemon Vela,male,TX,21366,1963
+Texas,R,ARRINGTON,RepArrington,Jodey C. Arrington,male,TX,21700,1972
+Texas,R,BABIN,RepBrianBabin,Brian Babin,male,TX,21551,1948
+Texas,R,BARTON,RepJoeBarton,Joe Barton,male,TX,15085,1949
+Texas,R,BRADY,RepKevinBrady,Kevin Brady,male,TX,29760,1955
+Texas,R,BURGESS,michaelcburgess,Michael C. Burgess,male,TX,20355,1950
+Texas,R,CARTER,JudgeCarter,John R. Carter,male,TX,20356,1941
+Texas,R,CONAWAY,ConawayTX11,K. Michael Conaway,male,TX,20531,1948
+Texas,R,FARENTHOLD,farenthold,Blake Farenthold,male,TX,21184,1961
+Texas,R,GOHMERT,replouiegohmert,Louie Gohmert,male,TX,20527,1953
+Texas,R,GRANGER,RepKayGranger,Kay Granger,female,TX,29762,1943
+Texas,R,HENSARLING,RepHensarling,Jeb Hensarling,male,TX,20352,1957
+Texas,R,HURD,WillHurd,Will Hurd,male,TX,21550,1977
+Texas,R,JOHNSON,SamsPressShop,Sam Johnson,male,TX,29143,1930
+Texas,R,MARCHANT,RepKenMarchant,Kenny Marchant,male,TX,20532,1951
+Texas,R,MCCAUL,RepMcCaul,Michael T. McCaul,male,TX,20530,1962
+Texas,R,OLSON,RepPeteOlson,Pete Olson,male,TX,20948,1962
+Texas,R,POE,JudgeTedPoe,Ted Poe,male,TX,20528,1948
+Texas,R,SESSIONS,PeteSessions,Pete Sessions,male,TX,29759,1955
+Texas,R,THORNBERRY,MacTXPress,Mac Thornberry,male,TX,29572,1958
+Texas,R,WEBER,TXRandy14,"Randy K. Weber, Sr.",male,TX,21360,1953
+Texas,R,WILLIAMS,RepRWilliams,Roger Williams,male,TX,21364,1949
+Utah,R,CHAFFETZ,jasoninthehouse,Jason Chaffetz,male,UT,20949,1967
+Utah,R,STEWART,RepChrisStewart,Chris Stewart,male,UT,21367,1960
+Vermont,D,WELCH,PeterWelch,Peter Welch,male,VT,20750,1947
+Virginia,D,BEYER,RepDonBeyer,"Donald S. Beyer, Jr.",male,VA,21554,1950
+Virginia,D,CONNOLLY,GerryConnolly,Gerald E. Connolly,male,VA,20952,1950
+Virginia,D,MCEACHIN,RepMcEachin,A. Donald McEachin,male,VA,21736,1961
+Virginia,D,SCOTT,BobbyScott,"Robert C. ""Bobby"" Scott",male,VA,39307,1947
+Virginia,R,COMSTOCK,RepComstock,Barbara Comstock,female,VA,21555,1959
+Virginia,R,GARRETT,RepTomGarrett,"Thomas A. Garrett, Jr.",male,VA,21721,1972
+Virginia,R,GOODLATTE,RepGoodlatte,Bob Goodlatte,male,VA,39308,1952
+Virginia,R,GRIFFITH,RepMGriffith,H. Morgan Griffith,male,VA,21191,1958
+Virginia,R,TAYLOR,Scotttaylorva,Scott Taylor,male,VA,21748,1979
+Virginia,R,WITTMAN,RobWittman,Robert J. Wittman,male,VA,20756,1959
+Washington,D,DELBENE,RepDelBene,Suzan K. DelBene,female,WA,31101,1962
+Washington,D,HECK,LtGovDennyHeck,Denny Heck,male,WA,21369,1952
+Washington,D,JAYAPAL,RepJayapal,Pramila Jayapal,female,WA,21726,1965
+Washington,D,KILMER,RepDerekKilmer,Derek Kilmer,male,WA,21368,1974
+Washington,D,LARSEN,RepRickLarsen,Rick Larsen,male,WA,20145,1965
+Washington,D,SMITH,RepAdamSmith,Adam Smith,male,WA,29768,1965
+Washington,R,BEUTLER,HerreraBeutler,Jaime Herrera Beutler,female,WA,21187,1978
+Washington,R,NEWHOUSE,RepNewhouse,Dan Newhouse,male,WA,21556,1955
+Washington,R,RODGERS,cathymcmorris,Cathy McMorris Rodgers,female,WA,20535,1969
+West Virginia,R,MCKINLEY,RepMcKinley,David B. McKinley,male,WV,21188,1947
+West Virginia,R,MOONEY,RepAlexMooney,Alexander X. Mooney,male,WV,21557,1971
+Wisconsin,D,KIND,RepRonKind,Ron Kind,male,WI,29769,1963
+Wisconsin,D,MOORE,RepGwenMoore,Gwen Moore,female,WI,20537,1951
+Wisconsin,D,POCAN,RepMarkPocan,Mark Pocan,male,WI,21370,1964
+Wisconsin,R,DUFFY,SeanDuffyWI,Sean P. Duffy,male,WI,21189,1971
+Wisconsin,R,GALLAGHER,RepGallagher,Mike Gallagher,male,WI,21720,1984
+Wisconsin,R,GROTHMAN,RepGrothman,Glenn Grothman,male,WI,21559,1955
+Wisconsin,R,RYAN,SpeakerRyan,Paul D. Ryan,male,WI,29939,1970
+Puerto Rico,R,gonzalez-colon,RepJenniffer,Jenniffer Gonzalez-Colon,female,PR,21992,1976
+United States Virgin Islands,D,plaskett,StaceyPlaskett,Stacey E. Plaskett,female,VI,21994,1966
