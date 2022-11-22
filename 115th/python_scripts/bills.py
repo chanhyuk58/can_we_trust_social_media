@@ -5,8 +5,7 @@ hr_list = ['hr' + str(i) for i in range(1, 7500)]
 
 df = pd.DataFrame(columns=['bill_number', 'title', 
                            'introduced_at', 'sponsor', 
-                           'status', 'passed_at'
-                           , 'subject', 
+                           'status', 'passed_at', 'subject', 
                            'top_term'
                            ]
                   )

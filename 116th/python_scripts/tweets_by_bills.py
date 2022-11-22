@@ -65,6 +65,12 @@ for num in num_list:
     rollnumber2 = pd.DataFrame(rollnumber2).iloc[0,0]
     tw_hract['rollnumber'] = ''
     tw_hract['rollnumber'] = rollnumber2
+    top_term = bills.loc[bills['bill_number']==num, 'top_term']
+    top_term = pd.DataFrame(top_term).iloc[0,0]
+    tw_hract['top_term'] = ''
+    tw_hract['top_term'] = top_term
+    tw_hract['introduced_at'] = intro
+    tw_hract['voted_at'] = voted
     
     if tw_hract.empty:
         pass
@@ -81,7 +87,8 @@ twt = pd.DataFrame(twt, columns=['tweet_id', 'created_at', 'hashtags', 'text',
                                  'user_id', 'user_name', 'user_screen_name', 
                                  'state', 'party', 'last_name', 'name', 
                                  'gender', 'state_abbrev', 'icpsr', 'born', 
-                                 'bill_number', 'clerk_rollnumber', 'rollnumber']
+                                 'bill_number', 'clerk_rollnumber', 'rollnumber',
+                                 'top_term', 'introduced_at', 'voted_at']
                    )
 #### Split data into test and normal ####
 twt = twt.sample(frac=1, random_state=1066).reset_index(drop=True)

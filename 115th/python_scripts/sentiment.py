@@ -62,10 +62,7 @@ df = pd.read_csv('../data/twt.csv')
 print(df.shape)
 
 senti = df['text'].apply(sentiment)
-
 df['score1'] = ''
-
-
 
 for i in range(0,len(df)):
     df.loc[i,'score1'] = senti[i]

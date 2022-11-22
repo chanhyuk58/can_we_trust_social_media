@@ -1,4 +1,5 @@
 library(tidyverse)
+library(stargazer)
 # library(rpart)
 
 ###### Accountlist #####
@@ -11,8 +12,8 @@ accountlist <- merge(accountlist, everypolitician, by = "user_screen_name", all.
 write_csv(accountlist, file = "accountlist.csv", na = "")
 
 accountlist2 <- read_csv("accountlist.csv")
-voteview <- read_csv("data/H115_members.csv")
-voteview <- voteview[,c("icpsr", "party", "last_name", "state_abbrev", "born")]
+voteview <- read_csv("../data/voteview/H115_members.csv")
+voteview <- voteview[,c("icpsr", "party", "last_name", "state_abbrev", "born", "nominate_dim1")]
 
 state.code <- read_csv("data/states.csv")
 names(state.code) <- c("state", "state_abbrev")
@@ -41,10 +42,13 @@ write.csv(bills, file = "data/bills_subjects.csv", row.names = FALSE)
 
 
 ##### final data ######
+voteview2 <- read_csv("~/Data/twitter_congress/116th/data/voteview/H116_members.csv")
 df115 = read_csv("../data/final.csv")
 df115 <- merge(df115, bills[c(1,4,5)], by = c('bill_number', 'congress'), all.x = TRUE)
+df115 <- merge(df115, voteview[,c("nominate_dim1", "icpsr")], by = "icpsr", all.x = TRUE)
 df116 = read_csv("~/Data/twitter_congress/116th/data/final.csv")
 df116 <- merge(df116, bills[c(1,4,5)], by = c('bill_number', 'congress'), all.x = TRUE)
+df116 <- merge(df116, voteview2[,c("nominate_dim1", "icpsr")], by = "icpsr", all.x = TRUE)
 df = rbind(df115, df116)
 df$party2 = ifelse(df$party == "D", "Democrat", "Republican")
 df$yea2 <- ifelse(df$yea_1 == 1, "Yea", "Nay")
@@ -115,3 +119,16 @@ bar <- ggplot(data = df1[df1$congress == 116, ]) +
         legend.text = element_text(size = 12))
 bar
 ggsave(bar, filename = "figures/bar116.pdf", width = 7, height = 7)
+
+
+
+#### Regression ####
+lm1 <- df%>% 
+  mutate(commit = tweet_id*days, 
+         extreme = abs(nominate_dim1)) %>% 
+  lm(-commit ~ gender + sponsor3 + born 
+     # + factor(party)
+     # + factor(congress)
+     , data = .)
+summary(lm1)
+stargazer(lm1)
